@@ -1,0 +1,3 @@
+shutdown=Press Enter to shutdown the engine
+types=Choose an engine
+alert=Attention. You must to install JDK before use this service.
