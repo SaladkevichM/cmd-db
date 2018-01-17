@@ -5,4 +5,5 @@ Create JavaDb, Hsqldb instances using batch file.
 Run ./start.bat
 
 	and choose engine type:
-	![Alt text](cmd.png?raw=true "example")
+	
+![Alt text](https://github.com/SaladkevichM/cmd-db/raw/master/cmd.PNG?raw=true)
